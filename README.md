@@ -1,16 +1,21 @@
-## Hi there 👋
+## 👋 Hej och välkommen till min profil!
 
-<!--
-**AIBookSmith/AIBookSmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Jag är en kreativ AI-användare som just nu bygger ett verktyg för att hjälpa författare att göra AI-genererad text mer mänsklig.  
+Min bakgrund är inom skrivande, pedagogik och digitala lösningar, och jag älskar att utforska hur teknik kan göra skapande ännu roligare och enklare.
 
-Here are some ideas to get you started:
+✨ Just nu bygger jag en AI-app som:
+- Förbättrar tonen i AI-genererad text
+- Anpassar språk och stil efter olika genrer, t.ex. facklitteratur och romaner
+- Gör det möjligt att jämföra före- och eftertexter
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Jag lär mig mer om:
+- GitHub och versionshantering
+- Hur man publicerar appar utan att det kostar för mycket
+- Smarta AI-lösningar för kreativa yrken
+
+💬 Du får gärna kontakta mig om du har liknande projekt eller vill samarbeta!
+
+---
+
+⭐ Tips: Om du också jobbar med AI och skrivande, connecta gärna!
+
